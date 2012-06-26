@@ -6,6 +6,7 @@ namespace :db do
     make_microposts
     make_relationships
 
+
   end
 end
 
